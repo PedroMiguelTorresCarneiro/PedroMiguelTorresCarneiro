@@ -1,0 +1,3 @@
+Since I remembered, my focus was to learn and invest in myself as a person as well as a professional. That's why you can see in my experience jobs such as restaurants/bar. That has opened my eyes to another perspective and see what it takes to earn a salary and make a life out of it. But that time kept me away from my dream, being an IT professional. That's what I really want to do. And I will definitely fight for it.
+
+In fact, I don't consider that time wasted, as I developed skills that made me the person I am today, such as teamwork, responsibility, dedication, commitment and willingness to learn.

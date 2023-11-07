@@ -1,5 +1,3 @@
-### - Pedro Miguel Torres Carneiro -  
-
 ```python
   class SoftwareEngineerInTraining:
   

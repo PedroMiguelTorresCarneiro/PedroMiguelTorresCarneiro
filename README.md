@@ -7,7 +7,7 @@
           self.languages_spoken = ["pt_PT", "en_US"]
           self.location = "Aveiro, Portugal"
           self.alma_mater = "Universidade de Aveiro"
-          self.interests = ["Java", "AI", "Data Science", "Python", "Flask", "IT Management"]
+          self.interests = ["Java", "Python", "Flask", "NLP", "NLTK", "AI", "UCD", "spaCy"]
   
       def greet(self):
           greetings = [

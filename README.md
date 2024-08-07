@@ -1,29 +1,28 @@
 ```python
   class SoftwareEngineerInTraining:
-  
-      def __init__(self):
-          self.name = "Pedro Carneiro"
-          self.role = "SoftwareEngineer In Training"
-          self.languages_spoken = ["pt_PT", "en_US"]
-          self.location = "Aveiro, Portugal"
-          self.alma_mater = "Universidade de Aveiro"
-          self.interests = ["Java", "Python", "Flask", "NLP", "NLTK", "AI", "UCD", "spaCy"]
-  
-      def greet(self):
-          greetings = [
-              f"Hello, I'm {self.name} and I'm crafting my path towards becoming a {self.role}.",
-              f"Originally from Vila Nova de Famalicão, I've found a second home amidst the tech vibrancy of {self.location}.",
-              f"At {self.alma_mater}, I'm merging theory with practice, preparing to innovate in Computer Science.",
-              f"My interests span from {', '.join(self.interests[:-1])}, to {self.interests[-1]}.",
-              "Driven by technology, I am on a quest to leave a digital footprint that resonates with progress and purpose."
-          ]
-          return "\n".join(greetings)
-  
-      def say_hi(self):
-          print(self.greet())
-  
-  me = SoftwareEngineerInTraining()
-  me.say_hi()
+    def __init__(self):
+        self.name = "Pedro Carneiro"
+        self.role = "Software Engineer In Training"
+        self.languages_spoken = ["pt_PT", "en_US"]
+        self.location = "Aveiro, Portugal"
+        self.alma_mater = "Universidade de Aveiro"
+        self.interests = ["Java", "Python", "Flask", "NLP", "NLTK", "AI", "UCD", "spaCy"]
+
+    def greet(self):
+        greetings = [
+            f"Hello, I'm {self.name} and I'm crafting my path towards becoming a {self.role}.",
+            f"Originally from Vila Nova de Famalicão, I've found a second home amidst the tech vibrancy of {self.location}.",
+            f"At {self.alma_mater}, I'm merging theory with practice, preparing to innovate in Computer Science.",
+            f"My interests span from {', '.join(self.interests[:-1])}, to {self.interests[-1]}.",
+            "Driven by technology, I am on a quest to leave a digital footprint that resonates with progress and purpose."
+        ]
+        return "\n".join(greetings)
+
+    def say_hi(self):
+        print(self.greet())
+
+me = SoftwareEngineerInTraining()
+me.say_hi()
 ```
 ---
 ##### PedroMiguelTorresCarneiro/BriefPresentation
